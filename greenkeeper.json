@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "nodeapi/package.json",
+        "react-front/package.json"
+      ]
+    }
+  }
+}
